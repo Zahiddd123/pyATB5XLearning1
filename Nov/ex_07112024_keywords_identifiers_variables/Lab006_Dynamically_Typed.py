@@ -9,6 +9,6 @@ print(type(age))
 print(type(AGE))
 
 age= 27
-AGE= True
+Age= True
 print(type(age))
-print(type(AGE))
+print(type(Age))
