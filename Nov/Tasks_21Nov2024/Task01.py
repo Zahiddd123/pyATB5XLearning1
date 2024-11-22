@@ -1,4 +1,4 @@
-# Write a program to print right triangle pattern
+# Write a program to print right triangle * pattern
 
 # for i in range(1,6):
 #
