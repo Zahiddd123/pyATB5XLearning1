@@ -45,11 +45,11 @@ input_string= "hello world"
 
 vowels= "aeiou"
 vowels_count= 0
-char_name="Vowel char ->"
+
 
 for char in input_string:
     if char in vowels:
         vowels_count= vowels_count+1
-        print("The vowel chars -> ",char)
+        print("The vowel chars in the input string -> ",char)
 print(vowels_count)
 
