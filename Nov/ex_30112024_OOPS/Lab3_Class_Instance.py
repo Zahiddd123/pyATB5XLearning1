@@ -7,10 +7,10 @@ class Person:
     def walk(self):
         return self.name
 
-Akif= Person("Akif")
-print(Akif.name)
-print("WHO IS WALKING -> ",Akif.walk())
+Obj1= Person("Akif")
+print(Obj1.name)
+print("WHO IS WALKING -> ",Obj1.walk())
 
-Zoro= Person("Zoro")
-print(Zoro.name)
-print("WHO IS WALKING -> ",Zoro.walk())
+Obj2= Person("Zoro")
+print(Obj2.name)
+print("WHO IS WALKING -> ",Obj2.walk())

@@ -31,10 +31,6 @@ class CustomerAccountDetail(ICICBank):
         BankAccount.show_me_balance(self)
 
 
-
-
-
-
 obj_ICIC= CustomerAccountDetail(1110,11111111111)
 obj_ICIC.loan()
 

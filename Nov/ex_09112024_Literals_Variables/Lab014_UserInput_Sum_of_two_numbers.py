@@ -1,4 +1,4 @@
-# 1. Write a program to  take the 2 user input
+    # 1. Write a program to  take the 2 user input
 # 2. then sum the numbers
 # 3. mul -> *
 # 4. div -> /
