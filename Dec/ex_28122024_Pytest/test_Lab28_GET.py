@@ -23,3 +23,4 @@ def test_get_request_positive():
     print(response_data.text) #to print the response data add -s with the
                               # "pytest filepath --alluredir=allure_results -s"
     assert response_data.status_code == 404
+
